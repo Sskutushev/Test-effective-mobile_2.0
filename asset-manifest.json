@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Test-effective-mobile_2.0/static/css/main.785b3424.css",
+    "main.js": "/Test-effective-mobile_2.0/static/js/main.f09d4e73.js",
+    "index.html": "/Test-effective-mobile_2.0/index.html",
+    "main.785b3424.css.map": "/Test-effective-mobile_2.0/static/css/main.785b3424.css.map",
+    "main.f09d4e73.js.map": "/Test-effective-mobile_2.0/static/js/main.f09d4e73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.785b3424.css",
+    "static/js/main.f09d4e73.js"
+  ]
+}
